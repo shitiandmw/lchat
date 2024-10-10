@@ -138,7 +138,7 @@
       "type": "نوع"
     },
     "providerInfo": {
-      "apiTooltip": "يدعم LobeChat استخدام مفتاح API مخصص لهذا المزود.",
+      "apiTooltip": "يدعم gpt.regex.site استخدام مفتاح API مخصص لهذا المزود.",
       "input": "سعر الإدخال",
       "inputTooltip": "تكلفة لكل مليون Token",
       "latency": "زمن الاستجابة",
